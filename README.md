@@ -30,7 +30,7 @@ Users should be able to:
   ![](./screenShots/desktopSS.png)
 
   ## Mobile 
-  ![](./screenShots/mobileSS.png
+  ![](./screenShots/mobileSS.png)
 
 
 ### Links
